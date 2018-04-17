@@ -61,4 +61,4 @@ Here are the steps:
 
   ​
 
-You can go ahead and do work in the local clone, write some code, and when you have something working, you use git to 
+  You can go ahead and do work in the local clone, write some code, and when you have something working, you use git to `commit` your changes, and then `push` those changes to the remote repo. 
