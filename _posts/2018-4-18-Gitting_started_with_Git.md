@@ -4,10 +4,6 @@ title: A quick guide to getting set up with Git
 ---
 
 
-## A quick guide to getting set up with Git
-
-
-
 This tutorial should be useful to you if:
 
 * you use a Mac
@@ -61,7 +57,7 @@ Here are the steps:
 
   You can go ahead and do work in the local clone, write some code, and when you have something working, you use git to `commit` your changes, and then `push` those changes to the remote repo. 
 
-  `git status` — use this frequently. It tells you whether your branch is up to date with origin master.
+  `git status` — use this frequently (as in, after every command). It tells you whether the commit process is unfolding as intended.
 
   `git add <filename>` gets a file ready for a commit. You could stage several files for a commit before comitting.
 
