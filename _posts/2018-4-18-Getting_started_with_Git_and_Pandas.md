@@ -39,7 +39,7 @@ Here are the steps:
 
 * Go to github.com, sign in with your `username` if you're not signed in already, and click on **New repository** on the right-hand side of the page: 
 
-  ![New repo](/Users/timcodes/ds/timrappold.github.io/images/image-20180417081927246.png)
+  ![New repo](../images/image-20180417081927246.png)
 
   You'll see a few options: 
 
@@ -49,7 +49,7 @@ Here are the steps:
 
 * In your new repository, `repo`, click on **Download or Clone**. A `link` to your new repo will pop up. Copy that `link`.
 
-  ![Clone](/Users/timcodes/ds/timrappold.github.io/images/image-20180417082044333.png)
+  ![Clone](../images/image-20180417082044333.png)
 
   ​
 
