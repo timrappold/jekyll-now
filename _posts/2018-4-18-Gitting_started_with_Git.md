@@ -1,14 +1,12 @@
 ---
 layout: post
-title: Git and Pandas, etc.
+title: A quick guide to getting set up with Git
 ---
 
 
-## A quick guide to getting set up with Git, Pandas *Groupby*, and maybe Pycharm
+## A quick guide to getting set up with Git
 
 
-
-### Git:
 
 This tutorial should be useful to you if:
 
