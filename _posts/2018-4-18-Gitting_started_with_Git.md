@@ -20,7 +20,7 @@ I'm going to lay out a simple and robust workflow that's just right for getting 
 
 The workflow of Git is something like this: you work on a `file`, presumably a piece of code, on your local machine, in some `folder/` directory,  `~/somepath/folder/` .  The basic workflow you'll learn about looks like this:
 
-`local_file` - **push** -> `local_file` on Github
+`local_file` - **push** -> `remote_file` on Github
 
 
 
@@ -60,3 +60,13 @@ Here are the steps:
   ​
 
   You can go ahead and do work in the local clone, write some code, and when you have something working, you use git to `commit` your changes, and then `push` those changes to the remote repo. 
+
+  `git status` — use this frequently. It tells you whether your branch is up to date with origin master.
+
+  `git add <filename>` gets a file ready for a commit. You could stage several files for a commit before comitting.
+
+  `git commit -m "Your informative commit message."` — this makes a local commit.
+
+  `git push origin master` gets this thing pushed to your remote repository.
+
+And that's it. Check `git status` to make sure it all worked well. 
