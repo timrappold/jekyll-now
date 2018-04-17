@@ -57,4 +57,8 @@ Here are the steps:
 
   `cd ~/path_to_local_repo/local_repo_folder`
 
-* Now, in the Command Line, type `git clone` and paste the `link` that you copied before: `git clone link`. A new folder named `repo` should appear *inside* `local_repo_folder`. This folder `repo` is your local clone! You can go ahead and do work in that folder, write 
+* Now, in the Command Line, type `git clone` and paste the `link` that you copied before: `git clone link`. A new folder named `repo` should appear *inside* `local_repo_folder`. This folder `repo` is your local clone! 
+
+  ​
+
+You can go ahead and do work in the local clone, write some code, and when you have something working, you use git to 
